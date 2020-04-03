@@ -8,9 +8,9 @@
 
 
 /* functions Related examples   */ 
-
+------------------
 recursive program :
-
+------------------
 def f1(n):
 	if n ==0:
 		result =1
@@ -19,11 +19,6 @@ def f1(n):
 	return result
 s1=f1()
 print(s1)	    	
-
-
-
-
-
 
 
 '''
