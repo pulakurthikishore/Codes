@@ -39,7 +39,22 @@ Processor   : i7   7th or 8th gen       // which defines the speed     min i5 pr
 motherboard : 
 Ram         : 12              // min 8              DDR4   8gb min 
 
-Graphic     : NVIDA                           // GEforece >700 series 
+Graphic     : NVIDA    6gb min      8                         // GEforece >700 series 
+
+
+
+
+
+
+
+gaming Purpose  :
+
+Processor  :  Intel   --  i7 
+RAM        : 16GB
+graphic    : 8gb    > 2.00  series
+Display inches     : Flat display    >27.5 inches   4k display 
+
+Cabinet    :  
 
 
 @@@@@
